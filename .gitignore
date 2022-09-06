@@ -1,4 +1,7 @@
 my_api_keys.py
+*.txt
+data/
+*.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
